@@ -27,7 +27,8 @@ addContact(contact)
     contacts.push(contact);
 
   this.setState({
-    contacts:contacts
+    //contacts:contacts 1.yontem
+    contacts
   })
  // console.log(contact);
 }
